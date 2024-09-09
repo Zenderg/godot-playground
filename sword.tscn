@@ -1,0 +1,11 @@
+[gd_scene load_steps=2 format=3 uid="uid://cld0r85vse7a2"]
+
+[ext_resource type="Texture2D" uid="uid://dkrpatea2ff3b" path="res://outline-sword-with-no-color-on-transparent-backgro (1).svg" id="1_0g0fg"]
+
+[node name="Sword" type="RigidBody2D"]
+
+[node name="Outline-sword-with-no-color-on-transparent-backgro(1)" type="Sprite2D" parent="."]
+position = Vector2(9.53674e-07, 0)
+rotation = -3.14159
+scale = Vector2(0.01, 0.01)
+texture = ExtResource("1_0g0fg")
